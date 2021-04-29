@@ -1,4 +1,4 @@
-import { ADD_TODO, UPDATE_TODO, DELETE_TODO, GET_TODO, updateTodo } from './actions';
+import { ADD_TODO, UPDATE_TODO, DELETE_TODO, GET_TODO } from './actions';
 
 const initialData = {
     results: []
